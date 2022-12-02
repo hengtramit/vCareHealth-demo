@@ -8,7 +8,7 @@ function App() {
         <div>
           <img src={header} alt="Bachelor of Computer Science"/>
         </div>
-        <h1>1. Program Overview</h1>
+        <h1>1. Program Overviews</h1>
         <p>
             <b>Bachelor of Computer Science</b> is the study of computers and computational systems, we focus mostly on software systems, including computer theory, design, development, and application. The majority of Computer Science is related to Computer Systems, Data Science, Machine Learning, Information Security, Database Management, Design Thinking, Programming Languages, Software Engineering, and Theory of Computing.
         </p>
